@@ -1,11 +1,10 @@
 /*
-exo starts with led, write the hours until led off
-1,372,800 frames total
+exp starts with led on, write the minutes until led off
+1,372,800 frames total (22 hours)
 62400 frames per hour
-notes
-5hours in 312000frame light off
-on/off is controlled by a hard coded modulo function
 
+5hours in 312000frame light off
+Note to self Arduino uses 32bit processing
 */
 
 // constants won't change
